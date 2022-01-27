@@ -2,13 +2,13 @@
 <a href="https://www.linkedin.com/in/sukrit-bansal-4453181a5/">
   <img align="left" alt="Sukrit's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br/>
+<br>
 
 Hi, I'm Sukrit Bansal, a Machine Learning Enthusiast 🚀.
 
 
 
-  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./code.gif" width="350" height="320" />
   
 **Talking about Personal Stuffs:**
 
